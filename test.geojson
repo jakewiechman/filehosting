@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {},
+      "name": {Upper Midwest},
+      "id": {1},
       "geometry": {
         "coordinates": [
           [
@@ -139,6 +141,8 @@
     {
       "type": "Feature",
       "properties": {},
+      "name": {Northwest},
+      "id": {2},
       "geometry": {
         "coordinates": [
           [
@@ -218,6 +222,8 @@
     {
       "type": "Feature",
       "properties": {},
+      "name": {Golden State},
+      "id": {3},
       "geometry": {
         "coordinates": [
           [
